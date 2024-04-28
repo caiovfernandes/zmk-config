@@ -55,4 +55,4 @@
         };
 };
 
-&mt F RC(RA(LCMD))
+&mt RC(RA(LCMD)) F
