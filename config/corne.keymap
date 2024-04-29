@@ -56,5 +56,5 @@
 };
 
 &mt {
-    tapping-term-ms = <400>;
+    tapping-term-ms = <800>;
 };
